@@ -20,8 +20,9 @@ const Hero = () => {
            
           </h1>
           <p className="text-black-500 font-semibold text-sm md:text mt-3">
-           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ullam enim est, quo assumenda incidunt aspernatur ipsa sunt itaque voluptas.
-          </p>
+          NFT is a brand-new phenomenon that is creating billionaires in the online world.
+         <br />
+          If you don’t have many NFTs in your collection, the nerds will tell you that you’re wasting your time.          </p>
         </div>
 
         <div className="flex flex-row mt-5 w-full">
